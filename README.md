@@ -11,8 +11,12 @@
   </a>
 </div>
 
-<div><span style="font-size: 28px;">PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</span>
+<div>
+  <span style="all: unset; font-size: 28px; font-weight: bold; display: block;">
+    PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.
+  </span>
 </div>
+
 <div align="center">
   <a href="giammatrimarco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
