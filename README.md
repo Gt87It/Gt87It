@@ -11,8 +11,8 @@
   </a>
 
   <div style="display: flex; justify-content: flex-start; margin-left: 20px;">
-    <img src="https://github.com/Gt87It/Gt87It/blob/main/Psi.jpg" style="width: 150px; height: auto; border-radius: 50%; margin-right: 10px;" />
-    <img src="https://github.com/Gt87It/Gt87It/blob/main/scatterplot.jpg" style="width: 150px; height: auto; border-radius: 50%;" />
+    <img src="https://github.com/Gt87It/Gt87It/blob/main/Psi.jpg" style="width: 70px; height: auto; border-radius: 50%; margin-right: 10px;" />
+    <img src="https://github.com/Gt87It/Gt87It/blob/main/scatterplot.png" style="width: 70px; height: auto; border-radius: 50%;" />
   </div>
 
   <p>PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</p>
