@@ -6,8 +6,7 @@
 <img src="https://github.com/Gt87It/Gt87It/blob/main/ROC-curve-1.webp" alt="Banner ROC curve">
 
 <div>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=435&height=65&lines=Giammaria+Trimarco;Phd+student+at+Sapienza+University+of+Rome" alt="Typing SVG" />
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=450&height=65&lines=Giammaria+Trimarco;Phd+student+at+Sapienza+University+of+Rome" alt="Typing SVG" /></a>
   </a>
 
   <div style="display: flex; justify-content: flex-start; margin-left: 20px;">
