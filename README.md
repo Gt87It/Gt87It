@@ -13,7 +13,6 @@
 
 <div style="font-size: 28px; font-weight: bold;">
   <p>PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</p>
-  <p>Find out more about me at <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">Linkedin</a>.</p>
   <p>
     <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
       <i class="fa fa-linkedin"></i>
@@ -21,7 +20,7 @@
   </p>
 </div>
 <div align="center">
-  <a href="giammatrimarco@gmail.com@gmail.com">
+  <a href="giammatrimarco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
