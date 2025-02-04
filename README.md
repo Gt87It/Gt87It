@@ -3,7 +3,7 @@
   <img src="https://profile-counter.glitch.me/{Gt87It}/count.svg" alt="Visitor's Count" />
 </div>
 
-<img src="https://github.com/Gt87It/Gt87It/blob/main/ROC-curve-1.webp" alt="Banner ROC curve" width="900">
+<img src="https://github.com/Gt87It/Gt87It/blob/main/ROC-curve-1.webp" alt="Banner ROC curve" width="800">
 
 <div style="display: flex; align-items: center; justify-content: flex-end;">
   <a href="https://git.io/typing-svg">
@@ -18,6 +18,7 @@
     <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
       <i class="fa fa-linkedin"></i>
     </a>
+    - 🌱 I’m currently learning **[System Design](https://blog.bytebytego.com/p/free-system-design-pdf-158-pages)**
   </p>
 </div>
 
