@@ -8,12 +8,12 @@
 <div style="display: flex; align-items: center; justify-content: flex-end;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=450&height=65&lines=Giammaria+Trimarco;Phd+student+at+Sapienza+University+of+Rome" alt="Typing SVG" />
-  </a>
+  </a> 
 </div>
 
-<div>
-  <span style="font-size: 28px; font-weight: bold; display: block;">PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</span>
-</div>
+### PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.
+
+<p>On my way learning <a href="https://www.tableau.com/" target="_blank">Tableau</a> and <a href="https://www.microsoft.com/it-it/power-platform/products/power-bi?market=it#tabs-pill-bar-ocb9d418_tab4" target="_blank">Power BI</a>.</p>
 
 
 <div align="center">
