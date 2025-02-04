@@ -11,13 +11,10 @@
   </a>
 </div>
 
-<div style="font-size: 28px; font-weight: bold;">
+<div style="font-size: 28px !important; font-weight: bold;">
   <p>PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</p>
-  <p>
-    <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
-      <i class="fa fa-linkedin"></i>
-    </a>
-  </p>
+</div>
+  <p>PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</p>
 </div>
 <div align="center">
   <a href="giammatrimarco@gmail.com">
