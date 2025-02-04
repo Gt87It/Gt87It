@@ -9,10 +9,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=450&height=65&lines=Giammaria+Trimarco;Phd+student+at+Sapienza+University+of+Rome" alt="Typing SVG" />
   </a>
+</div>
+
+<div>
   <span style="all: unset; font-size: 28px; font-weight: bold; display: block;">
     PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.
   </span>
 </div>
+
+
 <div align="center">
   <a href="giammatrimarco@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
