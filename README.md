@@ -10,15 +10,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=450&height=65&lines=Giammaria+Trimarco;Phd+student+at+Sapienza+University+of+Rome" alt="Typing SVG" />
 </div>
 
-<p style="font-size: 28px; font-weight: bold;">
-  PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.
-</p>
-<p style="font-size: 28px; font-weight: bold;">Find out more about me at <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">Linkedin</a>.</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
-    <i class="fa fa-linkedin" style="font-size:28px;"></i>
-  </a>
-</p>
-
+<div style="font-size: 28px; font-weight: bold;">
+  <p>PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</p>
+  <p>Find out more about me at <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">Linkedin</a>.</p>
+  <p>
+    <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
+      <i class="fa fa-linkedin"></i>
+    </a>
+  </p>
+</div>
 
