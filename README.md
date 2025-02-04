@@ -12,7 +12,7 @@
 </div>
 
 <div>
-  <span style="all: unset; font-size: 28px; font-weight: bold; display: block;">
+  <span style="font-size: 28px; font-weight: bold; display: block;">
     PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.
   </span>
 </div>
