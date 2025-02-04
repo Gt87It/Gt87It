@@ -11,8 +11,7 @@
   </a>
 </div>
 
-<div> <p><span style="font-size: 28px;">PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</span>
-  <p>
+<div><span style="font-size: 28px;">PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.</span>
 </div>
 <div align="center">
   <a href="giammatrimarco@gmail.com">
