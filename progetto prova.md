@@ -1,5 +1,7 @@
 # titolo progetto
 
+alcuni ocmandi markdown **bold**  *corsivo* [colonna]
+
 ###### NB per grafici e viasualizzazioni salva file da incolllare sul progetto e poi drag and dro dove vuoi metterlo
 ##### Per aggiungere tabelle 
 |Heading1|Heading2|
