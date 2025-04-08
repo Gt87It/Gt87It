@@ -30,9 +30,6 @@
 (other not listed:  Microsoft Office, Open Office, Spss, Jamovi, JASP)
 <p>On my way learning <a href="https://www.tableau.com/" target="_blank">Tableau</a> and <a href="https://www.microsoft.com/it-it/power-platform/products/power-bi?market=it#tabs-pill-bar-ocb9d418_tab4" target="_blank">Power BI</a>.</p>
 <div align="center">
-  <a href="giammatrimarco@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
   <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
