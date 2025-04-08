@@ -11,7 +11,8 @@
   </a> 
 </div>
 
-### PhD student in Social Psychology, curious and passionate about psychology, data analysis and computational methods applied to social research.
+### PhD student in Social Psychology
+## Curious and dedicated to data analysis and computational methods applied to social research.
 #### Some of the tools I use on a regular basis, to varying degrees:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -25,7 +26,7 @@
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-(other not listed: OpenOffice Calc- Write - Impress, Spss, Jamovi, JASP)
+(other not listed:  Microsoft Office, Open Office, Spss, Jamovi, JASP)
 <p>On my way learning <a href="https://www.tableau.com/" target="_blank">Tableau</a> and <a href="https://www.microsoft.com/it-it/power-platform/products/power-bi?market=it#tabs-pill-bar-ocb9d418_tab4" target="_blank">Power BI</a>.</p>
 <div align="center">
   <a href="giammatrimarco@gmail.com">
