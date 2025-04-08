@@ -13,7 +13,7 @@
 
 ### PhD student in Social Psychology
 ## Curious and dedicated to data analysis and computational methods applied to social research.
-## Please go to my other repositories to have a look at my projects
+## Please go to my other repositories to have a look at the projects
 #### Some of the tools I use on a regular basis, to varying degrees:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
