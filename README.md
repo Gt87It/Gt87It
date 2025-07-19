@@ -26,9 +26,9 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-(other not listed:  Microsoft Office, Open Office, Spss, Jamovi, JASP)
-<p>On my way learning <a href="https://www.tableau.com/" target="_blank">Tableau</a> and <a href="https://www.microsoft.com/it-it/power-platform/products/power-bi?market=it#tabs-pill-bar-ocb9d418_tab4" target="_blank">Power BI</a>.</p>
+(other not listed:  Microsoft Office, Open Office, Spss, Jamovi, JASP, STATA)
 <div align="center">
   <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
