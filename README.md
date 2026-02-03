@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/Gt87It/Gt87It/main/ROC-curve-1.webp" width="500">
 
-<div align="right">
+<div align="left">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=450&height=65&lines=Giammaria+Trimarco,+PhD" />
   </a>
