@@ -1,9 +1,9 @@
 <img src="https://github.com/Gt87It/Gt87It/blob/main/ROC-curve-1.webp" alt="Banner ROC curve" width="500">
-
 <div style="display: flex; align-items: center; justify-content: flex-end;">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=450&height=65&lines=Giammaria+Trimarco, Phd" alt="Typing SVG" />
-  </a> </div>
+  </a> 
+</div>
 
 ### PhD in Social, Developmental and Educational Psychology
 ## Curious and dedicated to statistics, data analysis and computational methods applied to social research.
