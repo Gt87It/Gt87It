@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center; justify-content: flex-end;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=450&height=65&lines=Giammaria+Trimarco;Phd+student+at+Sapienza+University+of+Rome" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Lato&size=23&pause=500&multiline=true&repeat=false&width=450&height=65&lines=Giammaria+Trimarco,Phd" alt="Typing SVG" />
   </a> 
 </div>
 
