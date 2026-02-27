@@ -25,7 +25,7 @@
 
 (other not listed:  Microsoft Office, Open Office, Spss, Jamovi, JASP, STATA)
 <div align="center">
-  <a href="https://www.linkedin.com/in/giammaria-trimarco-82a8151ba/" target="_blank">
+  <a href="https://www.linkedin.com/in/giammaria-trimarco-phd-82a8151ba/?skipRedirect=true" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
